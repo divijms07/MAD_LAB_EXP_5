@@ -1,0 +1,4 @@
+#Tue Mar 19 22:27:41 IST 2024
+base.0=C\:\\Users\\DIVIJ\\StudioProjects\\flutter_exp5\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
